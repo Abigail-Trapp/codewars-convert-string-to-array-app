@@ -1,0 +1,7 @@
+.form {
+    border: solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightblue;
+}
